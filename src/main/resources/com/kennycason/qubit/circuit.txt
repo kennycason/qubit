@@ -1,0 +1,36 @@
+∨ OR
+^ AND
+¬ NOT
+⊕ XOR
+
+└ ┐┘┌  ┴ ┬ ├ ┼ ┤ │ ─
+
+output always on right exit
+
++ emitter
+o receiver
+
+
+AND
+─^─
+─┘
+
+OR
+─∨─
+─┘
+
+XOR
+─⊕─
+─┘
+
+XNOR
+─⊕¬─
+─┘
+
+NAND
+─^¬─
+─┘
+
+NOR
+─∨¬─
+─┘
